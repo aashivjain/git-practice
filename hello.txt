@@ -1,2 +1,2 @@
 Hello, Technify!
-This is my first Git commit. 
+This is my first Git commit.
